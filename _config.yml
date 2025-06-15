@@ -1,11 +1,11 @@
 title: Hatter's Page
 theme: minima
 
-social_links:
-  - title: jht5945@github
-    icon: github
-    url: "https://github.com/jht5945"
-  - title: Hatter GnuPG
-    icon: key
-    url: "https://pgp.hatter.me"
-
+minima:
+  social_links:
+    - title: jht5945@github
+      icon: github
+      url: "https://github.com/jht5945"
+    - title: Hatter GnuPG
+      icon: key
+      url: "https://pgp.hatter.me"
