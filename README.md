@@ -1,2 +1,4 @@
-# page
-Hatter's Page
+# Hatter's Page
+
+Welcome to hatter's page.
+
