@@ -1,5 +1,3 @@
-# Hatter's Page
-
 > Welcome to hatter's page.
 
 My GnuPG keys:
