@@ -3,6 +3,9 @@ author:
   name: Hatter Jiang
   email: hatter-page@hatterjiang.com
 
+description: >
+  Hello World. This is Hatter's Page.
+
 theme: minima
 
 plugins:
