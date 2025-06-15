@@ -1,9 +1,17 @@
 title: Hatter's Page
-theme: minima
-
 author:
   name: Hatter Jiang
   email: hatter-page@hatterjiang.com
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 minima:
   social_links:
