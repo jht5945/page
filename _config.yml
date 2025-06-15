@@ -1,6 +1,10 @@
 title: Hatter's Page
 theme: minima
 
+author:
+  name: Hatter Jiang
+  email: hatter-page#hatterjiang.com
+
 minima:
   social_links:
     - title: jht5945@github
